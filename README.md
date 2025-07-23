@@ -33,11 +33,16 @@ A simple Python-based expense tracker that uses AI-powered categorization and SQ
    ```bash
    python -m venv env
    source env/bin/activate
-   
-  On Windows:
-  ```powershell
-  python -m venv env
-  .\env\Scripts\activate
+   ```
+   On Windows:
+   ```powershell
+   python -m venv env
+   .\env\Scripts\activate
+   ```
+---
+Author  
+Created by [Apeksha Bharti](https://github.com/apeksha-118)
+---
 
 
 
